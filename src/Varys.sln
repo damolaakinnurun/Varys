@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varys.API", "Varys.API\Vary
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varys.Elastic", "Varys.Elastic\Varys.Elastic.csproj", "{A5ADA1FE-E720-4355-AF1C-4D80E6A1D75F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varys.Logic", "Varys.Logic\Varys.Logic.csproj", "{99905B81-85DB-4213-8844-D83488E99D2E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varys.Domain", "Varys.Domain\Varys.Domain.csproj", "{EC1A76B8-D5F6-4ADF-8D3B-6E9338ECBE72}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{A5ADA1FE-E720-4355-AF1C-4D80E6A1D75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5ADA1FE-E720-4355-AF1C-4D80E6A1D75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5ADA1FE-E720-4355-AF1C-4D80E6A1D75F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{99905B81-85DB-4213-8844-D83488E99D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{99905B81-85DB-4213-8844-D83488E99D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{99905B81-85DB-4213-8844-D83488E99D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{99905B81-85DB-4213-8844-D83488E99D2E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EC1A76B8-D5F6-4ADF-8D3B-6E9338ECBE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EC1A76B8-D5F6-4ADF-8D3B-6E9338ECBE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC1A76B8-D5F6-4ADF-8D3B-6E9338ECBE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
