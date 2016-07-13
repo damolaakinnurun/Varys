@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>Varys</id>
+    <version>1.0.0</version>
+    <authors>Splasherstech</authors>
+	<description>Varys API package</description>
+  </metadata>
+	<files>
+		<file src="*" exclude="packages.config;*.cs;*.csproj;*.user;*.nuspec" />
+		<file src="bin\**" exclude="**\*.pdb;**\*.dll.config" target="bin" />
+		<file src="App_Data\**" target="App_Data" />
+		<file src="fonts\**" target="fonts" />
+		<file src="Scripts\**" target="Scripts" />
+		<file src="Views\**" exclude="**\*.cs" target="Views" />
+		<file src="Areas\**" exclude="**\*.cs" target="Areas" />
+		<file src="Content\**" exclude="**\*.cs" target="Content" />
+	</files>
+  
+</package>
